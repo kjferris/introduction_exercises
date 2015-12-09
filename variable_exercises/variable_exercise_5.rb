@@ -1,0 +1,1 @@
+# The first example prints x is 3. The second example throws an error due to variable scope.

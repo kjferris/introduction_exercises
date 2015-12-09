@@ -1,0 +1,1 @@
+# It will print nothing due to the explicit return.
