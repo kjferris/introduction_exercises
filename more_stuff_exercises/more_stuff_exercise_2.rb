@@ -1,0 +1,1 @@
+# Nothing is printed to the scren. The method returns a Proc.

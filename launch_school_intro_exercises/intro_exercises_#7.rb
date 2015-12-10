@@ -1,0 +1,1 @@
+# A hash contains both a key and value.
